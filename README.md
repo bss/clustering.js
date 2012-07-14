@@ -69,4 +69,4 @@ Additional algorithms or improvements/bug fixes on existing are very welcome.
 Authors
 ===
 
-* Bo Stendal Sørensen ([@bss](http://twitter.com/bssdk))
+* Bo Stendal Sørensen ([@bss](https://github.com/bss))
